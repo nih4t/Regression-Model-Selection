@@ -16,10 +16,10 @@ In this project, we address the problem of regression model selection. Regressio
 
 The dataset used in this project consists of various features that can potentially influence the energy output of a power plant. The features are as follows:
 
-**AT (Ambient Temperature)**: The ambient temperature
-**V (Vacuum)**: The vacuum pressure
-**AP (Ambient Pressure)**: The ambient pressure
-**RH (Humidity)**: The relative humidity
+**AT (Ambient Temperature)**: The ambient temperature,
+**V (Vacuum)**: The vacuum pressure,
+**AP (Ambient Pressure)**: The ambient pressure,
+**RH (Humidity)**: The relative humidity,
 
 The target variable is:
 

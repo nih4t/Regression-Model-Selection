@@ -14,7 +14,19 @@ In this project, we address the problem of regression model selection. Regressio
 
 ## Dataset
 
-Describe the dataset you used in this project. Include information such as the source of the dataset, the number of samples, and the features/target variables. Additionally, mention any preprocessing steps you applied to the dataset.
+The dataset used in this project consists of various features that can potentially influence the energy output of a power plant. The features are as follows:
+
+**AT (Ambient Temperature)**: The ambient temperature
+**V (Vacuum)**: The vacuum pressure
+**AP (Ambient Pressure)**: The ambient pressure
+**RH (Humidity)**: The relative humidity
+
+The target variable is:
+
+**PE (Energy)**: The net hourly electrical energy output of the power plant in megawatts (MW).
+The dataset is collected from a power plant and contains measurements of the ambient temperature, vacuum pressure, ambient pressure, humidity, and the corresponding energy output. The goal of this project is to predict the energy output based on the other features.
+
+
 
 ## Models
 
